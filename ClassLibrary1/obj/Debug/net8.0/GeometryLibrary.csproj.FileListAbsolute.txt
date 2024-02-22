@@ -1,0 +1,11 @@
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\GeometryLibrary.deps.json
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\GeometryLibrary.dll
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\GeometryLibrary.pdb
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\GeometryLibrary.dll
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\refint\GeometryLibrary.dll
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\GeometryLibrary.pdb
+C:\Users\Pyhton\source\repos\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\GeometryLibrary.dll
